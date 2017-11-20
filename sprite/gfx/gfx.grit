@@ -1,0 +1,6 @@
+# Default options for all graphics
+-g                 # include graphics
+-gt                # tiled
+-gB 4              # 4 bpp
+-gT FF00FF         # transparent color
+-p                 # include palette
